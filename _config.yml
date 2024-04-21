@@ -40,9 +40,7 @@ baseurl: '/fredrik.qi'
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://avatars0.githubusercontent.com/u/8897534"
-#avatar: "images/jonathan_doe.jpg"
-#avatar:
+avatar: "https://github.com/Fredrik-Qi/fredrik.qi/blob/gh-pages/images/TROM4808.JPG"
 
 
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
@@ -150,7 +148,7 @@ links:
       icon: fas fa-book-open
   - email:
       name: Email
-      show: true
+      show: false
       href: zhouhui.qi@stud.ki.se
       icon: fas fa-envelope
   - publickey:
@@ -163,7 +161,6 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    Email: zhouhui.qi@stud.ki.se
 
 #EOF
