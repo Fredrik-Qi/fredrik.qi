@@ -12,19 +12,19 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: Zhouhui Qi
 #subtitle:
-subtitle: Frontend Developer
+subtitle: Master's student in computational biology
 
 # Title attribute of HTML Page, uses 'name' from above if empty
-title: Fuse Core
+title: Fredrik's personal website
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: One line of text describing the content of the page in less than 140 characters.
-    keywords: foo, bar, baz
+    description: Fredrik's personal website
+    keywords: computational biology,blog,personal website
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
