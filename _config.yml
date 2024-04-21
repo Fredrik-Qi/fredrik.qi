@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Zhouhui Qi
 #subtitle:
-subtitle: Master's student in computational biology
+subtitle: Master's student in computational biology at the Karolinska Institutet
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Fredrik's personal website
